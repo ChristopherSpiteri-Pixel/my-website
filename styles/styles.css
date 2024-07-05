@@ -224,3 +224,15 @@ main .section.light,
 main .section.highlight {
   background-color: var(--light-color);
 }
+
+#july-2024{
+  color: rgb(178, 175, 175);
+  font-weight: 100;
+  text-align: center;
+  font-size: medium;
+}
+
+#end-x-needles-rattan
+{
+  text-align: center;
+}
