@@ -1,11 +1,11 @@
 .columns > div {
   display: flex;
   flex-direction: column;
-  background-color:azure;
 }
 
 .columns img {
   width: 100%;
+  padding: 1em;
 }
 
 .columns > div > div {
