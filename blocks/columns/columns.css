@@ -1,17 +1,24 @@
 .columns > div {
   display: flex;
   flex-direction: column;
-  background-color:cadetblue;
+  padding-top: 2em;
 }
 
 .columns img {
   width: 100%;
-  padding-top: 1em;
+}
+
+.columns > div > div > p{
+  font-size: 1.2rem;
+  letter-spacing: 0.0257143rem;
+  line-height: 26px;
+  text-align: center;
+  text-transform: none;
+  padding: 0px 12rem 0px;
 }
 
 .columns > div > div {
   order: 1;
-  background-color: aqua;
 }
 
 .columns > div > .columns-img-col {
