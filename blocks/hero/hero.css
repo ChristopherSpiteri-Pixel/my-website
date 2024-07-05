@@ -16,7 +16,7 @@ main .hero-container {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  color: whitesmoke;
+  color: rgb(238, 231, 231);
 }
 
 .hero picture {
@@ -31,5 +31,4 @@ main .hero-container {
   object-fit: cover;
   width: 100%;
   height: 100%;
-  opacity: 70%;
 }
