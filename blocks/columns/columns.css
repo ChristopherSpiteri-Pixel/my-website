@@ -1,7 +1,7 @@
 .columns > div {
   display: flex;
   flex-direction: column;
-  background-color: aquamarine;
+  background-color: rgb(249, 249, 249);
 }
 
 .columns img {
