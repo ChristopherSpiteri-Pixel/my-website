@@ -14,7 +14,7 @@
   line-height: 26px;
   text-align: center;
   text-transform: none;
-  padding: 0px 12rem 0px;
+  padding: 0px 4rem 0px;
 }
 
 .columns > div > div {
@@ -47,6 +47,6 @@
     line-height: 26px;
     text-align: center;
     text-transform: none;
-    padding: 0px 4rem 0px;
+    padding: 0px 12rem 0px;
   }
 }
